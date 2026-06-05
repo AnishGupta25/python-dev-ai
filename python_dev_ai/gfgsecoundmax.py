@@ -6,3 +6,4 @@ class Solution:
         else:
             arr.remove(max(arr))
             return max(arr)
+        
